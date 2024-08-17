@@ -1,5 +1,5 @@
 import './DetailsComponent.css'
-import CartIcon from '../../assets/images/icon-cart.svg'
+import CartIcon from '../../../public/images/icon-cart.svg'
 function DetailsComponent(){
     return(
     <div id="detailsDiv">  
