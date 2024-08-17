@@ -1,0 +1,6 @@
+main{
+  width: 50%;
+  height: 450px;
+  display: flex;
+  border-radius: 10px;
+}
