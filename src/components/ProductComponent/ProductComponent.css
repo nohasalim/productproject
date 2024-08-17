@@ -1,6 +1,18 @@
 #productDiv{
     width: 50%;
+    height: 100%;
 }
+@media only screen and (max-width: 800px) {
+    #productDiv{
+        width: 100%;
+        height: 50%;
+        border-radius: 10px;
+    }
+    #MyImg{
+        border-radius:10px;
+    }
+    
+  }
 #MyImg{
     width: 100%;
     height: 100%;
